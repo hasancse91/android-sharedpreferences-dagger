@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "SharedPreferences Dagger"
+rootProject.name = "Android SharedPreferences Dagger"
