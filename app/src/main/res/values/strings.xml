@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Android SharedPreferences Dagger</string>
+    <string name="name_edittext_hint">Enter your name</string>
+    <string name="website_edittext_hint">Enter your website</string>
+    <string name="save_button_text">Save</string>
+    <string name="label_name">Name</string>
+    <string name="label_website">Website</string>
 </resources>
