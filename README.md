@@ -1,4 +1,4 @@
-# Android SharedPreferences Implementation with Dagger 2
+# Android SharedPreferences with Dagger 2
 
 `SharedPreferences` is a very common and usefull API of Android SDK to store simple key-value pair data for any Android App. In this repository, I implemented the `SharedPreferences` with `Dagger 2` **Dependency Injection** framework. Please be mentioned that, it's not mandatory to implement SharedPreferences with Dagger. This repository is for practicing the Dagger stuff. If you want to know the basic implementation of SharedPreferences without Dagger, then check [this repository](https://github.com/hasancse91/Android-SharedPreferences).
 
