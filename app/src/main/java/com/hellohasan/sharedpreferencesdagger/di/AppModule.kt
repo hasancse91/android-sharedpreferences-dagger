@@ -13,7 +13,7 @@ import dagger.android.ContributesAndroidInjector
 abstract class AppModule {
 
     @Binds
-    abstract fun provideContext(application: Application): Context
+    abstract fun bindContext(application: Application): Context
 
     @Binds
     abstract fun bindSharedPreferences(appPreferenceImpl: AppPreferenceImpl): AppPreference
